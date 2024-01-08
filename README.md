@@ -1,5 +1,7 @@
 ### Hi, my name is Larosh! 👋
-### I'm a mathematics major, who decided to specialize in data
+### I'm a mathematics major, who decided to specialize in data, mainly because I think theres a great intersection between telling a story and the facts that go along with it. 
+
+### Currently I'm in the process of specializing myself inside Machine Learning!
 <!--
 **LaroshSS/LaroshSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
