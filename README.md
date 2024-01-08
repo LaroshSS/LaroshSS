@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, my name is Larosh! 👋
+### I'm a mathematics major, who decided to specialize in data
 <!--
 **LaroshSS/LaroshSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
